@@ -1,5 +1,3 @@
-require 'pry'
-
 def prime?(arg)
   is_prime = Array(2..arg)
   if arg == 2
